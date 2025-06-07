@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  app:
+    image: toddys/fullcycle
+    container_name: go_app
